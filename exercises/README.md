@@ -20,4 +20,11 @@ Batch Normalization in Convolutional Neural Networks  https://www.baeldung.com/c
 
 - Practises with einsum and as_strided
 
-- FUnctions (Convolution, Padding, Stride, MaxPooling), Modules (Convolution, Linear, Pooling, Batch Normalization)
+- Functions (Convolution, Padding, Stride, MaxPooling), Modules (Convolution, Linear, Pooling, Batch Normalization)
+
+
+## Day 3 
+
+- Binary Classification and training loop with hyperparameter tuning
+
+- Adversarial attacks
