@@ -27,4 +27,4 @@ Batch Normalization in Convolutional Neural Networks  https://www.baeldung.com/c
 
 - Binary Classification and training loop with hyperparameter tuning
 
-- Adversarial attacks
+- Adversarial attacks : FSGM, Patch attack
