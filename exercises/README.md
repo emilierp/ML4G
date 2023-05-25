@@ -28,3 +28,9 @@ Batch Normalization in Convolutional Neural Networks  https://www.baeldung.com/c
 - Binary Classification and training loop with hyperparameter tuning
 
 - Adversarial attacks : FSGM, Patch attack
+
+## Day 4
+
+- Optimizer : Adam, SGD
+
+- Image Memorizer : DataLoader, Dataset, Train-Test Split by indexing, visualization
