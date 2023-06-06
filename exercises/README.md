@@ -48,3 +48,9 @@ https://docs.google.com/document/d/1XJQT8PJYzvL0CLacctWcT0T5NfL7dwlCiIqRtdTcIqA/
 - Transformer implementation 
 - Dataset, DataLoader, Training loop, Optimizer
 - Reversed sequence prediction
+
+## Day 6
+
+https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html
+https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
