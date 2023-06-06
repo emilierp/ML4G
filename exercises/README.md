@@ -34,3 +34,17 @@ Batch Normalization in Convolutional Neural Networks  https://www.baeldung.com/c
 - Optimizer : Adam, SGD
 
 - Image Memorizer : DataLoader, Dataset, Train-Test Split by indexing, visualization
+
+## Day 5 
+
+https://jalammar.github.io/illustrated-transformer/
+https://jalammar.github.io/illustrated-gpt2/
+https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+
+https://www.greaterwrong.com/posts/X26ksz4p3wSyycKNB/gears-level-mental-models-of-transformer-interpretability
+https://docs.google.com/document/d/1XJQT8PJYzvL0CLacctWcT0T5NfL7dwlCiIqRtdTcIqA/edit#heading=h.icw2n6iwy2of
+
+
+- Transformer implementation 
+- Dataset, DataLoader, Training loop, Optimizer
+- Reversed sequence prediction
