@@ -60,3 +60,12 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 - RL : Vanilla Policy Gradient
 - DQN
 - Torch : log_prob, sample
+
+## Day 7 : Grad CAM
+
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+https://arxiv.org/pdf/1610.02391.pdf
+PyTorch Hooks https://pytorch.org/tutorials/beginner/former_torchies/nnft_tutorial.html#forward-and-backward-function-hooks 
+
+- Grad CAM 
+- Hooks
