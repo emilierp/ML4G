@@ -1,3 +1,10 @@
+# TO DO 
+
+w1d4 search engine
+w1d6 feature vizu
+neel induction heads
+
+
 # Day 1 
 
 https://einops.rocks/1-einops-basics/
@@ -69,3 +76,16 @@ PyTorch Hooks https://pytorch.org/tutorials/beginner/former_torchies/nnft_tutori
 
 - Grad CAM 
 - Hooks
+
+## Day 8 : GPT Interpretability
+
+Interpreting GPT: the logit lens
+https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens 
+Probing 
+https://www.youtube.com/watch?v=HJn-OTNLnoE
+Activation Atlas
+https://openai.com/research/introducing-activation-atlases
+
+- Logit Lens : hook on GPT translation
+- Probes
+- Activation Atlas : visualize the space the neurons jointly represent.
