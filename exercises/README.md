@@ -1,7 +1,6 @@
 # TO DO 
 
 w1d4 search engine
-w1d6 feature vizu
 neel induction heads
 
 
